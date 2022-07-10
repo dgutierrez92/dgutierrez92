@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @dgutierrez92
-- 👀 I’m interested in concerts, dogs, and Disneyland!
-- 🌱 I’m currently learning how to code.
+- 👀 I love concerts, my pup Harley, and Disneyland!
+- 🌱 I’m currently learning cybersecurity!
+- 👩🏻‍💻 Interests in cryptography, bash scripting, pentesting, and vulnerability assessments.
 
 <!---
 dgutierrez92/dgutierrez92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
